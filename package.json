@@ -1,0 +1,24 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buffer.js",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1415801689xing/nodeLearnNotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1415801689xing/nodeLearnNotes/issues"
+  },
+  "homepage": "https://github.com/1415801689xing/nodeLearnNotes#readme"
+}
