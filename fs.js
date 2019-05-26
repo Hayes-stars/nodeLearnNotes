@@ -21,7 +21,7 @@ readFile('./config.js').then(data=>{
 // fs promises api
 const {promises} = require('fs');
 promises.readFile('./config.js').then(data=>{
-  console.log(data);  
+  console.log(data.toString());  
 });
 
 // generator
